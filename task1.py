@@ -134,3 +134,4 @@ plt.show()
 
 print("\n=== Дополнительная статистика по Depression ===")
 print(f"Процент студентов с депрессией: {dep_counts[True] / len(data_set) * 100:.2f}%")
+
